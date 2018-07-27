@@ -7,5 +7,7 @@ Bienvenue sur ce répertoire de mods pour Cold Waters, le jeu de simulaiton sous
 
 La traduction inclut les interfaces, les systèmes d'aide et de tutoriel, et les voix (vous pouvez choisir de garder les voix d'origine en ne copiant pas les fichiers audio).
 
+Installation: dézippez les fichiers dans le répertoire "override" du dossier d'installation (par défaut, C:\Program Files (x86)\Steam\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets". S'il n'existe pas, créez-le (il doit se trouver au même niveau que le répertoire "default" créé lors de l'installation).
+
 Si vous souhaitez installer les sous-marins, il est recommandé d'installer d'abord la traduction française. Seule la section "Quick Mission" a été modifiée dans ce mod pour inclure les SM français. Si vous souhaitez inclure ces navires dans les missionns simples ou dans les campagnes, il vous faudra inclure des références à ces navires dans la section "PlayerVessels" des fichiers de configuration.
 
