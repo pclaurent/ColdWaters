@@ -1,9 +1,0 @@
-﻿[Unit Reference]
-ShipClass=Rubis
-Description=SNA de classe Rubis
-History=La classe Rubis (anciennement SNA 72 et classe Provence) est une classe de six sous-marins nucléaires d'attaque de 1re génération français. Ils remplacent les sous-marins diesel-électrique de classe Agosta. Les SNA de la classe Rubis sont en service dans la Marine nationale française. Ils sont les sous-marins nucléaires militaires les plus compacts du monde. Cette classe est conçue pour la lutte sous-marine en profondeur, la surveillance des convois et le renseignement électronique. Leurs coques en acier "80 HLES" à haute limite élastique permettent une immersion maximale supérieure à 300 m. Le dôme sonar et le massif sont en matériaux composites. La surface habitable est de 90 m². Équipé d'un système de combat informatisé « TITAC » centralisant la détection sous-marine, le traitement des informations et le lancement des armes (direction de lancement « DLA ») ; d'un système d'aide au commandement « SEAO/OPSMER » ; d'un système de transmission par satellite « Syracuse 2 », d'un système de navigation intégré avec deux centrales inertielles « Minicin » de Sagem.
-
-[Player Ship Instances]
-PlayerClassNames=Rubis,Saphir,Casabianca,Emeraude,Améthyste,Perle
-
-PlayerClassHullNumbers=S601,S602,S603,S604,S605,S606
