@@ -1,8 +1,0 @@
-﻿[Unit Reference]
-ShipClass=Agosta
-Description=SM de classe Agosta
-History=La classe Agosta est un type de sous-marin d'attaque à propulsion classique de conception française des années 1970. Plus grands que les navires de la classe Daphné, les Agosta ont été étudiés pour accomplir des missions à longue distance. Les sources de bruit, extérieures et intérieures, ont été réduites dans toute la mesure du possible. Notamment les apparaux de coque sont rétractables et effacés à la mer. Amélioration notable par rapport aux Daphné, les tubes lance-torpilles, au nombre de quatre, sont à rechargement rapide à la mer. Ils peuvent lancer indifféremment des torpilles de 550 ou 533 mm de diamètre, des missiles à changement de milieu SM39 ou des mines.
-[Player Ship Instances]
-PlayerClassNames=Agosta,Beveziers,La Praya,Ouessant
-
-PlayerClassHullNumbers=S620,S621,S622,S623
