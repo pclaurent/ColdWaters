@@ -1,4 +1,0 @@
-﻿[Weapon Reference]
-WeaponName=F-21
-WeaponDescriptiveName=Torpille F-21
-WeaponDescription=La DCNS F21 est une torpille anti-surface avancée produite depuis 2016. La France et le Brésil en sont les principaux utilisateurs. Alimenté par batterie, elle a une vitesse très rapide de plus de 50 noeuds. Guidée par fil, elle peut être utilisée dans les modes sonar actif et passif.
