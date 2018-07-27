@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=F-17
+WeaponDescriptiveName=Torpille F-17
+WeaponDescription=Le DTCN F17 est une torpille de navire anti-surface filoguidée à l'origine produite en 1971. La France, l'Espagne, et l'Arabie Saoudite étaient ses premiers utilisateurs. Le panneau de contrôle permet la commutation instantanée entre les modes passif filoguidé et autonome actif/passif.

@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Triomphant
+Description=SNLE de classe Triomphant
+History=La classe Le Triomphant est le nom de la classe des sous-marins nucléaires lanceurs d'engins de nouvelle génération (les SNLE-NG) de la marine nationale française. Elle tire son nom du sous-marin tête de série, Le Triomphant. Ils dépendent de la Force océanique stratégique. Le Triomphant est le premier sous-marin français doté d'une pompe hélice carénée, un système jouant sur le reflux de l'eau qui évite ainsi la cavitation, inspirée des réacteurs d'avion. La coque possède un revêtement anéchoïque absorbant les ondes sonar. Ces technologies lui assurent un niveau de furtivité exceptionnel. Son réacteur nucléaire à eau pressurisée, dénommé K15, possède une puissance de 150 MW. Il est développé par la société Technicatome à l'aide d'un prototype à terre situé à Cadarache, le réacteur de nouvelle génération (RNG). Sa coque est en acier 100 HLES, résistant à des pressions de 100 kg/mm², fabriqué par Industeel sur son site du Creusot. Son équipage de 110 hommes comprend une vingtaine d'atomiciens
+
+[Player Ship Instances]
+PlayerClassNames=Triomphant,Téméraire,Vigilant,Terrible
+
+PlayerClassHullNumbers=S616,S617,S618,S619

@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=EXOCET
+WeaponDescriptiveName=Missile Exocet (SM-39)
+WeaponDescription=Le missile Exocet est logé à l'intérieur d'une capsule de lancement étanche (VSM ou véhicule Sous marin), qui est lancée par les tubes lance-torpilles du sous-marin. En quittant l'eau, la capsule est éjectée et le moteur du missile est mis à feu. Il se comporte alors comme un MM40. Le missile peut être tiré en profondeur, ce qui le rend particulièrement adapté aux opérations sous-marines discrètes.
