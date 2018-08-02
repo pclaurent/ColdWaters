@@ -11,4 +11,4 @@ Installation: dézippez les fichiers dans le répertoire "override" du dossier d
 
 Si vous souhaitez installer les sous-marins, il est recommandé d'installer d'abord la traduction française. Seule la section "Quick Mission" a été modifiée dans ce mod pour inclure les SM français. Si vous souhaitez inclure ces navires dans les missionns simples ou dans les campagnes, il vous faudra inclure des références à ces navires dans la section "PlayerVessels" des fichiers de configuration.
 
-*** NOTE: Ce répertoire est encore en construction et sujet à de nouveaux ajouts / correctifs. N'hésitez pas à y revenir de temps en temps, des nouveautés y sont régulièrement postées.
+*** NOTE: Ce répertoire est encore en construction et sujet à de nouveaux ajouts / correctifs. N'hésitez pas à y revenir de temps en temps, des nouveautés y sont régulièrement postées. Vous êtes aussi chaleureusement encouragés à laisser vos commentaires dans l'onglet Issues, ou sur le forum Steam de Cold Waters.
