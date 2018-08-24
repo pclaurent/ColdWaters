@@ -3,10 +3,6 @@ Here is the place for my mods and translations for Cold Waters game (submarine s
 
 ********
 
-Dernière mise à jour le 15/08/18 : prise en compte de l'upgrade en mode Quick Mission (affichage des unités).
-
-********
-
 Bienvenue sur ce répertoire de mods pour Cold Waters, le jeu de simulaiton sous-marine des temps modernes. Vous trouverez ici toutes les ressources pour jouer en Français, avec, en bonus, des sous-marins français (classes SM Agosta, SNA Rubis, et SNLE Triomphant).
 
 La traduction inclut les interfaces, les systèmes d'aide et de tutoriel, et les voix (vous pouvez choisir de garder les voix d'origine en ne copiant pas les fichiers audio).
