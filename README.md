@@ -1,8 +1,4 @@
 # ColdWaters France
-Here is the place for my mods and translations for Cold Waters game (submarine simulator). Theses files are mainly centered around French language support, French navy, subs and equipments.
-
-********
-
 Bienvenue sur ce répertoire de mods pour Cold Waters, le jeu de simulaiton sous-marine des temps modernes. Vous trouverez ici toutes les ressources pour jouer en Français, avec, en bonus, des sous-marins français (classes SM Agosta, SNA Rubis, et SNLE Triomphant).
 
 La traduction inclut les interfaces, les systèmes d'aide et de tutoriel, et les voix (vous pouvez choisir de garder les voix d'origine en ne copiant pas les fichiers audio).
@@ -11,4 +7,4 @@ Installation: dézippez le fichier "French text files.zip" dans le répertoire d
 
 Si vous souhaitez installer les sous-marins, il est recommandé d'installer d'abord la traduction française. Seule la section "Quick Mission" a été modifiée dans ce mod pour inclure les SM français. Si vous souhaitez inclure ces navires dans les missionns simples ou dans les campagnes, il vous faudra inclure des références à ces navires dans la section "PlayerVessels" des fichiers de configuration.
 
-*** NOTE: Bien que la phase "beta" de cette traduction soit à présent terminée, la perfection n'étant pas de ce monde, vous êtes chaleureusement encouragés à laisser vos commentaires dans l'onglet Issues, ou sur le forum Steam de Cold Waters https://steamcommunity.com/app/541210/discussions/0/1759104257595701072/). Ce sont vos retours qui me permettront d'améliorer ce travail.
+Vous êtes chaleureusement encouragés à laisser vos commentaires dans l'onglet Issues, ou sur le forum Steam de Cold Waters https://steamcommunity.com/app/541210/discussions/0/1759104257595701072/). Ce sont vos retours qui me permettront d'améliorer ce travail.
