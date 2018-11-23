@@ -1,5 +1,5 @@
 # ColdWaters France
-Bienvenue sur ce répertoire de mods pour Cold Waters, le jeu de simulaiton sous-marine des temps modernes. Vous trouverez ici toutes les ressources pour jouer en Français, avec, en bonus, des sous-marins français (classes SM Daphné et Agosta, SNA Rubis et Suffren, et SNLE Triomphant).
+Bienvenue sur ce répertoire de mods pour Cold Waters, le jeu de simulation sous-marine des temps modernes. Vous trouverez ici toutes les ressources pour jouer en Français, avec, en bonus, des sous-marins français (classes SM Daphné et Agosta, SNA Rubis et Suffren, et SNLE Triomphant).
 
 La traduction inclut les interfaces, les systèmes d'aide et de tutoriel, et les voix (vous pouvez choisir de garder les voix d'origine en ne copiant pas les fichiers audio).
 
